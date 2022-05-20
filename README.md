@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Learn React
 - 🎮 Gamer
 
+<br>
+
 ### Connect with me:
 
-[![website](https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg)](https://linkedin.com/in/nikola-dimitrijoski-700450159#gh-dark-mode-only)
+<a href="https://linkedin.com/in/nikola-dimitrijoski-700450159" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Linkedin" width="40" height="40"/> </a>
 
 ### :hammer_and_wrench: Languages and Tools (learning):
 
